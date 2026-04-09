@@ -10,7 +10,7 @@ export default function Navbar() {
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
           <div className="w-10 h-10 bg-brand-primary flex items-center justify-center font-bold text-white rounded-full shadow-md shadow-brand-primary/20">0</div>
-          <span className="text-xl font-display font-bold tracking-tight text-slate-900">Equipo Cero</span>
+          <span className="text-xl font-display font-bold tracking-tight text-slate-900">Equipo Zero</span>
         </div>
 
         {/* Desktop Nav */}

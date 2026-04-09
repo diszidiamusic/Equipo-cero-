@@ -22,7 +22,7 @@ export default function Contact() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-5xl md:text-6xl font-bold tracking-tight mb-8 text-slate-900"
             >
-              ¿Listo para <br /> <span className="text-brand-primary">Volver a Cero?</span>
+              ¿Listo para <br /> <span className="text-brand-primary">Volver a Zero?</span>
             </motion.h2>
             <motion.p 
               initial={{ opacity: 0, y: 20 }}
@@ -49,7 +49,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-xs font-bold uppercase tracking-widest text-slate-400 mb-1">Escríbenos</div>
-                  <div className="text-xl font-bold text-slate-900">info@equipocero.com</div>
+                  <div className="text-xl font-bold text-slate-900">info@equipozero.com</div>
                 </div>
               </div>
             </div>

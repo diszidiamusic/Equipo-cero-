@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="col-span-2">
             <div className="flex items-center gap-2 mb-8">
               <div className="w-10 h-10 bg-brand-primary flex items-center justify-center font-bold text-white rounded-full shadow-md shadow-brand-primary/20">0</div>
-              <span className="text-xl font-display font-bold tracking-tight text-slate-900">Equipo Cero</span>
+              <span className="text-xl font-display font-bold tracking-tight text-slate-900">Equipo Zero</span>
             </div>
             <p className="text-slate-500 max-w-sm leading-relaxed mb-8">
               Transformación radical de equipos y organizaciones. Fusionando tecnología de vanguardia con el potencial humano más puro.
@@ -46,7 +46,7 @@ export default function Footer() {
 
         <div className="pt-12 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-[10px] font-bold uppercase tracking-widest text-slate-400">
-            © 2026 Equipo Cero. Todos los derechos reservados.
+            © 2026 Equipo Zero. Todos los derechos reservados.
           </div>
           <div className="text-[10px] font-bold uppercase tracking-widest text-slate-400 flex items-center gap-2">
             <div className="w-2 h-2 bg-brand-secondary rounded-full animate-pulse"></div>
